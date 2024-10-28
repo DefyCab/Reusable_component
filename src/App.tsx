@@ -1,9 +1,9 @@
-import { PostItPeppingReusable } from "./Components/PostitPeppingReusable";
+import { PostIt } from "./Components/PostIt";
 
 const App = () => {
   return (
     <>
-      <PostItPeppingReusable message="Du är stark!"/>
+      <PostIt message="Du är stark!" />
     </>
   );
 };
