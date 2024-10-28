@@ -4,7 +4,7 @@
 
 Styling a Post-it component that the user can add there on text to.
 
-<bold>Goals</bold>
+<h2>Goals</h2>
 
 Basic goal: Make a yellowpost-it sticker that takes in a prop.
 
