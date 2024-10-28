@@ -1,7 +1,9 @@
+import { PostItPepping } from "./Components/PostItPepping";
+
 const App = () => {
   return (
     <>
-      <h1>Reusable component</h1>
+      <PostItPepping />
     </>
   );
 };
