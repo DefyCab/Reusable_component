@@ -1,7 +1,8 @@
 import { useState } from "react";
+import "../styles/postitpeeping.css";
 
 export const PostItPepping = () => {
-  const [pepMessage, setPepMessage] = useState("");
+  const [pepMessage, setPepMessage] = useState("Du är stark!");
 
   return (
     <div className="post-it-container">
